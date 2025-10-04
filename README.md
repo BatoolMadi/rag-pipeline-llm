@@ -1,2 +1,2 @@
-# rag-pipeline-llm
-Retrieval-Augmented Generation (RAG) pipeline combining embeddings, FAISS retrieval, and LLM generation with LoRA fine-tuning
+# contract-classification-distilbert
+Fine-tuned DistilBERT model for automatic classification of legal contracts into 13 predefined categories
